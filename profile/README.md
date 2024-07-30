@@ -4,11 +4,7 @@ Selamat datang di halaman GitHub Amerta, komunitas pengembang yang didirikan ole
 
 ## Tentang Kami
 
-Amerta adalah wadah bagi para pengembang dan peneliti data di lingkungan Universitas Jenderal Soedirman. Kami berfokus pada pengembangan proyek-proyek berbasis data dan teknologi untuk mendukung kegiatan akademik dan non-akademik di universitas.
-
-## Struktur Organisasi
-
-Admin utama komunitas ini adalah Direktorat Jenderal Analisis Data dari Kementerian Riset dan Data BEM Unsoed.
+Amerta adalah wadah bagi para pengembang dan peneliti data di lingkungan Universitas Jenderal Soedirman. Kami berfokus pada pengembangan proyek-proyek berbasis data dan teknologi untuk mendukung kegiatan akademik dan non-akademik di universitas. Admin utama komunitas ini adalah Direktorat Jenderal Analisis Data dari Kementerian Riset dan Data BEM Unsoed.
 
 ## Proyek Kami
 
