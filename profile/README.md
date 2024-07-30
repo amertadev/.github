@@ -1,9 +1,35 @@
-## Hi there 👋
+# Komunitas Amerta (@amertadev)
 
-**Here are some ideas to get you started:**
+Selamat datang di halaman GitHub Amerta, komunitas pengembang yang didirikan oleh Kementerian Riset dan Data Badan Eksekutif Mahasiswa Universitas Jenderal Soedirman.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Tentang Kami
+
+Amerta adalah wadah bagi para pengembang dan peneliti data di lingkungan Universitas Jenderal Soedirman. Kami berfokus pada pengembangan proyek-proyek berbasis data dan teknologi untuk mendukung kegiatan akademik dan non-akademik di universitas.
+
+## Struktur Organisasi
+
+Admin utama komunitas ini adalah Direktorat Jenderal Analisis Data dari Kementerian Riset dan Data BEM Unsoed.
+
+## Proyek Kami
+
+Kami membagi proyek-proyek kami menjadi dua kategori utama:
+
+### Proyek Internal
+
+1. **Analista101**
+   - Tujuan: Panduan dan arsip pengerjaan proyek-proyek analisis data
+   - Teknologi: Nextra
+
+2. **DataatUnsoed**
+   - Tujuan: Company profile dan penyimpanan data survei BEM Unsoed
+   - Teknologi: Wordpress
+
+### Proyek Eksternal
+
+1. **Soedirman Digital School**
+   - Tujuan: Company profile, pusat informasi event, dan gate registrasi online
+   - Teknologi: Astro
+
+---
+
+© 2024 Amerta - Kementerian Riset dan Data BEM Unsoed. Seluruh hak cipta dilindungi.
