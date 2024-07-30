@@ -1,4 +1,4 @@
-# Komunitas Amerta (@amertadev)
+# Amerta
 
 Selamat datang di halaman GitHub Amerta, komunitas pengembang yang didirikan oleh Kementerian Riset dan Data Badan Eksekutif Mahasiswa Universitas Jenderal Soedirman.
 
